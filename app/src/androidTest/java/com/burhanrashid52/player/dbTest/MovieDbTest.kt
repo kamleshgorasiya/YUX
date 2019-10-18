@@ -1,11 +1,11 @@
-package com.burhanrashid52.player.dbTest
+package com.kamleshgorasiya.player.dbTest
 
 import android.arch.persistence.room.Room
 import android.support.test.InstrumentationRegistry
-import com.burhanrashid52.player.data.local.AppDatabase
-import com.burhanrashid52.player.data.local.Movies
-import com.burhanrashid52.player.data.local.MoviesDao
-import com.burhanrashid52.player.util.LiveDataTestUtil
+import com.kamleshgorasiya.player.data.local.AppDatabase
+import com.kamleshgorasiya.player.data.local.Movies
+import com.kamleshgorasiya.player.data.local.MoviesDao
+import com.kamleshgorasiya.player.util.LiveDataTestUtil
 import junit.framework.Assert.assertEquals
 import junit.framework.Assert.assertTrue
 import org.junit.After

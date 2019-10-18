@@ -1,11 +1,11 @@
-package com.burhanrashid52.player
+package com.kamleshgorasiya.player
 
-import com.burhanrashid52.player.di.TestBaseAppModule
-import ja.burhanrashid52.base.di.components.DaggerBaseNetworkComponent
+import com.kamleshgorasiya.player.di.TestBaseAppModule
+import ja.kamleshgorasiya.base.di.components.DaggerBaseNetworkComponent
 
 /**
  *
- * @author <a href="https://github.com/burhanrashid52">Kamlesh Gorasiya</a>
+ * @author <a href="https://github.com/kamleshgorasiya">Kamlesh Gorasiya</a>
  * @since 6/22/2018
  */
 

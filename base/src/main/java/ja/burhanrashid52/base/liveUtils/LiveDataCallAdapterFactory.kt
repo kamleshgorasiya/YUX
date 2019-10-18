@@ -14,13 +14,13 @@
  * limitations under the License.
  */
 
-package ja.burhanrashid52.base.liveUtils
+package ja.kamleshgorasiya.base.liveUtils
 
 import android.arch.lifecycle.LiveData
 import java.lang.reflect.ParameterizedType
 import java.lang.reflect.Type
 
-import ja.burhanrashid52.base.api.ApiResponse
+import ja.kamleshgorasiya.base.api.ApiResponse
 import retrofit2.CallAdapter
 import retrofit2.Retrofit
 

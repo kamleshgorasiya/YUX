@@ -1,4 +1,4 @@
-package ja.burhanrashid52.base.di.modules
+package ja.kamleshgorasiya.base.di.modules
 
 import android.app.Application
 import android.content.SharedPreferences
@@ -15,11 +15,11 @@ import java.util.concurrent.TimeUnit
 
 import dagger.Module
 import dagger.Provides
-import ja.burhanrashid52.base.BuildConfig
-import ja.burhanrashid52.base.api.ApiConstants
-import ja.burhanrashid52.base.api.ApiServices
-import ja.burhanrashid52.base.di.scopes.BaseScope
-import ja.burhanrashid52.base.liveUtils.LiveDataCallAdapterFactory
+import ja.kamleshgorasiya.base.BuildConfig
+import ja.kamleshgorasiya.base.api.ApiConstants
+import ja.kamleshgorasiya.base.api.ApiServices
+import ja.kamleshgorasiya.base.di.scopes.BaseScope
+import ja.kamleshgorasiya.base.liveUtils.LiveDataCallAdapterFactory
 import okhttp3.Cache
 import okhttp3.OkHttpClient
 import okhttp3.internal.platform.Platform
@@ -31,7 +31,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 @Module
 open class BaseNetworkModule {
 
-    private val mBaseUrl = "https://my-json-server.typicode.com/burhanrashid52/YoutubeAnimation/"
+    private val mBaseUrl = "https://my-json-server.typicode.com/kamleshgorasiya/YoutubeAnimation/"
 
     @Provides
     @BaseScope

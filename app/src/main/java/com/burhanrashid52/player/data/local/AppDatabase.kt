@@ -1,4 +1,4 @@
-package com.burhanrashid52.player.data.local
+package com.kamleshgorasiya.player.data.local
 
 import android.arch.persistence.room.Database
 import android.arch.persistence.room.RoomDatabase

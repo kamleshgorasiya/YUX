@@ -21,7 +21,7 @@ Proudly :muscle: made in [**Kotlin**](https://kotlinlang.org/)
 
 ## How does it looks
 
-![](https://github.com/burhanrashid52/YoutubeUX/blob/master/gifs/youtube_ux_demo.gif)
+![](https://github.com/kamleshgorasiya/YoutubeUX/blob/master/gifs/youtube_ux_demo.gif)
 
 
 This video demonstarte the app animation.
@@ -36,7 +36,7 @@ This video demonstarte the app animation.
 
 Below image shows how the layout has been desgin using guidelines and all the Fragments are constraints to this guidelines. When user drag the video fragment we starts scaling up/down the guideline values which scale the fragments automatically that's the advantage of using constraint layout with guidelines
 
-![](https://github.com/burhanrashid52/YoutubeAnimation/blob/master/gifs/the_concept.jpg)
+![](https://github.com/kamleshgorasiya/YoutubeAnimation/blob/master/gifs/the_concept.jpg)
 
 
 
@@ -55,18 +55,18 @@ Below image shows how the layout has been desgin using guidelines and all the Fr
 ## Architecture
 The app uses ViewModel to abstract the data from UI and MovieRepository as single source of truth for data. MovieRepository first fetch the data from database if exist than display data to the user and at the same time it also fetches data from the webservice and update the result in database and reflect the changes to UI from database.
 
-![](https://github.com/burhanrashid52/YoutubeAnimation/blob/master/gifs/archtiture.png)
+![](https://github.com/kamleshgorasiya/YoutubeAnimation/blob/master/gifs/archtiture.png)
 
 
 ## How to contribute?
-* Check out contribution guidelines 👉[CONTRIBUTING.md](https://github.com/burhanrashid52/YoutubeAnimation/blob/master/CONTRIBUTING.md)
+* Check out contribution guidelines 👉[CONTRIBUTING.md](https://github.com/kamleshgorasiya/YoutubeAnimation/blob/master/CONTRIBUTING.md)
 
 
 
 ## Questions?🤔
-Hit me on twitter [![Twitter](https://img.shields.io/badge/Twitter-%40burhanrashid52-blue.svg)](https://twitter.com/burhanrashid52)
-[![Medium](https://img.shields.io/badge/Medium-%40burhanrashid52-brightgreen.svg)](https://medium.com/@burhanrashid52)
-[![Facebook](https://img.shields.io/badge/Facebook-Burhanuddin%20Rashid-blue.svg)](https://www.facebook.com/Bursid)
+Hit me on twitter [![Twitter](https://img.shields.io/badge/Twitter-%40kamleshgorasiya-blue.svg)](https://twitter.com/kamleshgorasiya)
+[![Medium](https://img.shields.io/badge/Medium-%40kamleshgorasiya-brightgreen.svg)](https://medium.com/@kamleshgorasiya)
+[![Facebook](https://img.shields.io/badge/Facebook-Kamlesh Gorasiya%20Rashid-blue.svg)](https://www.facebook.com/Bursid)
 
 
 ## Resources

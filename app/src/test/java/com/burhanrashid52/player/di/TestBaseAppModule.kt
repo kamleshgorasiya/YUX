@@ -1,14 +1,14 @@
-package com.burhanrashid52.player.di
+package com.kamleshgorasiya.player.di
 
 import android.app.Application
 import dagger.Module
 import dagger.Provides
-import ja.burhanrashid52.base.di.modules.BaseAppModule
-import ja.burhanrashid52.base.di.scopes.BaseScope
+import ja.kamleshgorasiya.base.di.modules.BaseAppModule
+import ja.kamleshgorasiya.base.di.scopes.BaseScope
 
 /**
  *
- * @author <a href="https://github.com/burhanrashid52">Kamlesh Gorasiya</a>
+ * @author <a href="https://github.com/kamleshgorasiya">Kamlesh Gorasiya</a>
  * @since 6/22/2018
  */
 

@@ -1,4 +1,4 @@
-package ja.burhanrashid52.base.di
+package ja.kamleshgorasiya.base.di
 
 import android.arch.lifecycle.ViewModel
 import android.arch.lifecycle.ViewModelProvider

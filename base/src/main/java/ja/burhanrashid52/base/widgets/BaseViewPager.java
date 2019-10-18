@@ -1,4 +1,4 @@
-package ja.burhanrashid52.base.widgets;
+package ja.kamleshgorasiya.base.widgets;
 
 import android.annotation.SuppressLint;
 import android.content.Context;

@@ -1,4 +1,4 @@
-package com.burhanrashid52.player.animations
+package com.kamleshgorasiya.player.animations
 
 /**
  * Created by Kamlesh Gorasiya on 2/27/2018.

@@ -1,11 +1,11 @@
-package com.burhanrashid52.player.data.local
+package com.kamleshgorasiya.player.data.local
 
 import android.arch.lifecycle.LiveData
 import android.arch.persistence.room.Dao
 import android.arch.persistence.room.Insert
 import android.arch.persistence.room.OnConflictStrategy
 import android.arch.persistence.room.Query
-import ja.burhanrashid52.base.repo.BaseDao
+import ja.kamleshgorasiya.base.repo.BaseDao
 
 @Dao
 interface MoviesDao : BaseDao<Movies> {

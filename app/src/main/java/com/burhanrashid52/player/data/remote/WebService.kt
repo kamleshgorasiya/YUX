@@ -1,8 +1,8 @@
-package com.burhanrashid52.player.data.remote
+package com.kamleshgorasiya.player.data.remote
 
 import android.arch.lifecycle.LiveData
-import com.burhanrashid52.player.data.local.MoviesSource
-import ja.burhanrashid52.base.api.ApiResponse
+import com.kamleshgorasiya.player.data.local.MoviesSource
+import ja.kamleshgorasiya.base.api.ApiResponse
 import retrofit2.http.GET
 
 /**

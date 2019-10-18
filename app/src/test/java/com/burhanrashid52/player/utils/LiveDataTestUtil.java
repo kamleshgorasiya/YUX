@@ -1,4 +1,4 @@
-package com.burhanrashid52.player.utils;
+package com.kamleshgorasiya.player.utils;
 
 import android.arch.lifecycle.LiveData;
 import android.arch.lifecycle.Observer;

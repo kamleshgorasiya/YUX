@@ -1,10 +1,10 @@
-package com.burhanrashid52.player.di.modules
+package com.kamleshgorasiya.player.di.modules
 
 import android.app.Application
 import android.arch.persistence.room.Room
-import com.burhanrashid52.player.data.local.AppDatabase
-import com.burhanrashid52.player.data.remote.WebService
-import com.burhanrashid52.player.di.scopes.AppScope
+import com.kamleshgorasiya.player.data.local.AppDatabase
+import com.kamleshgorasiya.player.data.remote.WebService
+import com.kamleshgorasiya.player.di.scopes.AppScope
 import dagger.Module
 import dagger.Provides
 import retrofit2.Retrofit

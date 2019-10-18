@@ -1,4 +1,4 @@
-package com.burhanrashid52.player.dashboard
+package com.kamleshgorasiya.player.dashboard
 
 /**
  * Created by Kamlesh Gorasiya on 2/27/2018.

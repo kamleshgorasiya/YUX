@@ -1,4 +1,4 @@
-package ja.burhanrashid52.base.repo
+package ja.kamleshgorasiya.base.repo
 
 import android.arch.persistence.room.*
 

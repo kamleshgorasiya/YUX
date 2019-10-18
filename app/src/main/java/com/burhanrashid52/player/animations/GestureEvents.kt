@@ -1,4 +1,4 @@
-package com.burhanrashid52.player.animations
+package com.kamleshgorasiya.player.animations
 
 import android.view.View
 

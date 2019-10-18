@@ -1,14 +1,14 @@
-package com.burhanrashid52.player.dashboard
+package com.kamleshgorasiya.player.dashboard
 
 import android.app.Application
 import android.arch.lifecycle.AndroidViewModel
 import android.arch.lifecycle.LiveData
-import com.burhanrashid52.player.PlayerApp
-import com.burhanrashid52.player.data.MoviesRepository
-import com.burhanrashid52.player.data.local.Movies
-import com.burhanrashid52.player.di.components.DaggerActivityComponent
-import ja.burhanrashid52.base.liveUtils.SingleLiveEvent
-import ja.burhanrashid52.base.repo.Resource
+import com.kamleshgorasiya.player.PlayerApp
+import com.kamleshgorasiya.player.data.MoviesRepository
+import com.kamleshgorasiya.player.data.local.Movies
+import com.kamleshgorasiya.player.di.components.DaggerActivityComponent
+import ja.kamleshgorasiya.base.liveUtils.SingleLiveEvent
+import ja.kamleshgorasiya.base.repo.Resource
 import javax.inject.Inject
 
 /**

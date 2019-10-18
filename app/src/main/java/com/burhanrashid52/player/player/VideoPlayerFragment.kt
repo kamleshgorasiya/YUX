@@ -1,4 +1,4 @@
-package com.burhanrashid52.player.player
+package com.kamleshgorasiya.player.player
 
 import android.annotation.SuppressLint
 import android.arch.lifecycle.Observer
@@ -14,14 +14,14 @@ import androidx.net.toUri
 import androidx.os.bundleOf
 import androidx.view.isGone
 import androidx.view.isVisible
-import com.burhanrashid52.player.R
-import com.burhanrashid52.player.dashboard.DashboardViewModel
-import com.burhanrashid52.player.dashboard.ViewsEvents
+import com.kamleshgorasiya.player.R
+import com.kamleshgorasiya.player.dashboard.DashboardViewModel
+import com.kamleshgorasiya.player.dashboard.ViewsEvents
 import kotlinx.android.synthetic.main.fragment_player.*
 import timber.log.Timber
 import android.view.View.SYSTEM_UI_FLAG_FULLSCREEN
 import android.view.View.OnSystemUiVisibilityChangeListener
-import ja.burhanrashid52.base.*
+import ja.kamleshgorasiya.base.*
 
 
 /**

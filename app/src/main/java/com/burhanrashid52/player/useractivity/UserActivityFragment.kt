@@ -1,9 +1,9 @@
-package com.burhanrashid52.player.useractivity
+package com.kamleshgorasiya.player.useractivity
 
 import android.os.Bundle
 import android.view.View
-import com.burhanrashid52.player.R
-import ja.burhanrashid52.base.BaseFragment
+import com.kamleshgorasiya.player.R
+import ja.kamleshgorasiya.base.BaseFragment
 import kotlinx.android.synthetic.main.fragment_trending.*
 
 class UserActivityFragment : BaseFragment() {

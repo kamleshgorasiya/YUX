@@ -1,12 +1,12 @@
-package ja.burhanrashid52.base.di.components
+package ja.kamleshgorasiya.base.di.components
 
 import android.app.Application
 
 import dagger.Component
-import ja.burhanrashid52.base.api.ApiServices
-import ja.burhanrashid52.base.di.modules.BaseAppModule
-import ja.burhanrashid52.base.di.modules.BaseNetworkModule
-import ja.burhanrashid52.base.di.scopes.BaseScope
+import ja.kamleshgorasiya.base.api.ApiServices
+import ja.kamleshgorasiya.base.di.modules.BaseAppModule
+import ja.kamleshgorasiya.base.di.modules.BaseNetworkModule
+import ja.kamleshgorasiya.base.di.scopes.BaseScope
 import retrofit2.Retrofit
 
 @BaseScope

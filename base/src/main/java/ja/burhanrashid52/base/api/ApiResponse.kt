@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package ja.burhanrashid52.base.api
+package ja.kamleshgorasiya.base.api
 
 import android.support.v4.util.ArrayMap
 import android.util.Log

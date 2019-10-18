@@ -1,13 +1,13 @@
-package com.burhanrashid52.player
+package com.kamleshgorasiya.player
 
 import android.content.Context
 import android.support.multidex.MultiDex
-import ja.burhanrashid52.base.BaseApplication
-import ja.burhanrashid52.base.di.components.BaseNetworkComponent
+import ja.kamleshgorasiya.base.BaseApplication
+import ja.kamleshgorasiya.base.di.components.BaseNetworkComponent
 
 
 /**
- * Created by Burhanuddin on 2/25/2018.
+ * Created by Kamlesh Gorasiya on 2/25/2018.
  */
 open class PlayerApp : BaseApplication() {
 

@@ -1,4 +1,4 @@
-package ja.burhanrashid52.base
+package ja.kamleshgorasiya.base
 
 import android.app.Activity
 import android.arch.lifecycle.ViewModel
@@ -27,7 +27,7 @@ import com.bumptech.glide.request.RequestOptions
 
 
 /**
- * Created by Burhanuddin on 2/21/2018.
+ * Created by Kamlesh Gorasiya on 2/21/2018.
  */
 
 inline fun AppCompatActivity.loadFragment(isAddToBackStack: Boolean = false,

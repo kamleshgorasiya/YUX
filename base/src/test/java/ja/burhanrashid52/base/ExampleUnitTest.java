@@ -1,4 +1,4 @@
-package ja.burhanrashid52.base;
+package ja.kamleshgorasiya.base;
 
 import org.junit.Test;
 

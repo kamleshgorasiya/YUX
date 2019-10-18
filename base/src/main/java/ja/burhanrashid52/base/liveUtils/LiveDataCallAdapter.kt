@@ -13,11 +13,11 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package ja.burhanrashid52.base.liveUtils
+package ja.kamleshgorasiya.base.liveUtils
 
 
 import android.arch.lifecycle.LiveData
-import ja.burhanrashid52.base.api.ApiResponse
+import ja.kamleshgorasiya.base.api.ApiResponse
 import retrofit2.Call
 import retrofit2.CallAdapter
 import retrofit2.Callback

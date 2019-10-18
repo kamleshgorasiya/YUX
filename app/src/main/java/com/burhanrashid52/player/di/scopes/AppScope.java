@@ -1,4 +1,4 @@
-package com.burhanrashid52.player.di.scopes;
+package com.kamleshgorasiya.player.di.scopes;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;

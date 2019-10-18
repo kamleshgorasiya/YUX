@@ -1,8 +1,8 @@
-package com.burhanrashid52.player.api
+package com.kamleshgorasiya.player.api
 
-import com.burhanrashid52.player.data.remote.WebService
-import com.burhanrashid52.player.utils.LiveDataTestUtil
-import ja.burhanrashid52.base.liveUtils.LiveDataCallAdapterFactory
+import com.kamleshgorasiya.player.data.remote.WebService
+import com.kamleshgorasiya.player.utils.LiveDataTestUtil
+import ja.kamleshgorasiya.base.liveUtils.LiveDataCallAdapterFactory
 import junit.framework.Assert.assertEquals
 import org.junit.Before
 import org.junit.Test
@@ -14,7 +14,7 @@ import java.io.IOException
 
 /**
  *
- * @author <a href="https://github.com/burhanrashid52">Kamlesh Gorasiya</a>
+ * @author <a href="https://github.com/kamleshgorasiya">Kamlesh Gorasiya</a>
  * @since 8/30/2018
  */
 

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package ja.burhanrashid52.base.repo
+package ja.kamleshgorasiya.base.repo
 
 import android.os.Handler
 import android.os.Looper

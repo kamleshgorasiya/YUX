@@ -1,10 +1,10 @@
-package ja.burhanrashid52.base.repo
+package ja.kamleshgorasiya.base.repo
 
 import android.arch.lifecycle.LiveData
 import android.arch.lifecycle.MediatorLiveData
 import android.support.annotation.MainThread
 import android.support.annotation.WorkerThread
-import ja.burhanrashid52.base.api.ApiResponse
+import ja.kamleshgorasiya.base.api.ApiResponse
 
 /**
  * A generic class that can provide a resource backed by both the sqlite database and the network.

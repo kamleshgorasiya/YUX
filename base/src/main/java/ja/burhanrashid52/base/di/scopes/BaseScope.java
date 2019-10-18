@@ -1,4 +1,4 @@
-package ja.burhanrashid52.base.di.scopes;
+package ja.kamleshgorasiya.base.di.scopes;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;

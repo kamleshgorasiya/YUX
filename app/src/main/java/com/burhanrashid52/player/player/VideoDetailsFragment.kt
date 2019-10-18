@@ -1,14 +1,14 @@
-package com.burhanrashid52.player.player
+package com.kamleshgorasiya.player.player
 
 import android.annotation.SuppressLint
 import android.arch.lifecycle.Observer
 import android.os.Bundle
 import android.view.View
 import androidx.os.bundleOf
-import com.burhanrashid52.player.R
-import com.burhanrashid52.player.dashboard.DashboardViewModel
-import ja.burhanrashid52.base.BaseFragment
-import ja.burhanrashid52.base.getActivityViewModel
+import com.kamleshgorasiya.player.R
+import com.kamleshgorasiya.player.dashboard.DashboardViewModel
+import ja.kamleshgorasiya.base.BaseFragment
+import ja.kamleshgorasiya.base.getActivityViewModel
 import kotlinx.android.synthetic.main.fragment_video_details.*
 import android.text.method.ScrollingMovementMethod
 

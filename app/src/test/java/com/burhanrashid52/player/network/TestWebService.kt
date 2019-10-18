@@ -1,13 +1,13 @@
-package com.burhanrashid52.player.network
+package com.kamleshgorasiya.player.network
 
 import android.arch.lifecycle.LiveData
-import com.burhanrashid52.player.data.local.MoviesSource
-import com.burhanrashid52.player.data.remote.WebService
-import ja.burhanrashid52.base.api.ApiResponse
+import com.kamleshgorasiya.player.data.local.MoviesSource
+import com.kamleshgorasiya.player.data.remote.WebService
+import ja.kamleshgorasiya.base.api.ApiResponse
 
 /**
  *
- * @author <a href="https://github.com/burhanrashid52">Kamlesh Gorasiya</a>
+ * @author <a href="https://github.com/kamleshgorasiya">Kamlesh Gorasiya</a>
  * @since 6/22/2018
  */
 class TestWebService : WebService {

@@ -1,9 +1,9 @@
-package ja.burhanrashid52.base
+package ja.kamleshgorasiya.base
 
 import android.app.Application
-import ja.burhanrashid52.base.di.components.BaseNetworkComponent
-import ja.burhanrashid52.base.di.components.DaggerBaseNetworkComponent
-import ja.burhanrashid52.base.di.modules.BaseAppModule
+import ja.kamleshgorasiya.base.di.components.BaseNetworkComponent
+import ja.kamleshgorasiya.base.di.components.DaggerBaseNetworkComponent
+import ja.kamleshgorasiya.base.di.modules.BaseAppModule
 import timber.log.Timber
 
 /**

@@ -1,13 +1,13 @@
-package com.burhanrashid52.player.data
+package com.kamleshgorasiya.player.data
 
 import android.arch.lifecycle.LiveData
-import com.burhanrashid52.player.data.local.Movies
-import com.burhanrashid52.player.data.local.MoviesDao
-import com.burhanrashid52.player.data.local.MoviesSource
-import com.burhanrashid52.player.data.remote.WebService
-import ja.burhanrashid52.base.repo.AppExecutors
-import ja.burhanrashid52.base.repo.NetworkBoundResource
-import ja.burhanrashid52.base.repo.Resource
+import com.kamleshgorasiya.player.data.local.Movies
+import com.kamleshgorasiya.player.data.local.MoviesDao
+import com.kamleshgorasiya.player.data.local.MoviesSource
+import com.kamleshgorasiya.player.data.remote.WebService
+import ja.kamleshgorasiya.base.repo.AppExecutors
+import ja.kamleshgorasiya.base.repo.NetworkBoundResource
+import ja.kamleshgorasiya.base.repo.Resource
 import javax.inject.Inject
 
 /**

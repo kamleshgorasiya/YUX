@@ -1,4 +1,4 @@
-package ja.burhanrashid52.base.api
+package ja.kamleshgorasiya.base.api
 
 /**
  * Created by Kamlesh Gorasiya on 3/1/2018.

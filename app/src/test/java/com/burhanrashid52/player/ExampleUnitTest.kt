@@ -1,4 +1,4 @@
-package com.burhanrashid52.player
+package com.kamleshgorasiya.player
 
 import org.junit.Test
 

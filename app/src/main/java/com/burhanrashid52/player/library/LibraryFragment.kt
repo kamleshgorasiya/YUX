@@ -1,9 +1,9 @@
-package com.burhanrashid52.player.library
+package com.kamleshgorasiya.player.library
 
 import android.os.Bundle
 import android.view.View
-import com.burhanrashid52.player.R
-import ja.burhanrashid52.base.BaseFragment
+import com.kamleshgorasiya.player.R
+import ja.kamleshgorasiya.base.BaseFragment
 import kotlinx.android.synthetic.main.fragment_trending.*
 
 class LibraryFragment : BaseFragment() {

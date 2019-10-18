@@ -1,13 +1,13 @@
-package com.burhanrashid52.player.home
+package com.kamleshgorasiya.player.home
 
 import android.support.v7.util.DiffUtil
 import android.support.v7.widget.RecyclerView
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.burhanrashid52.player.R
-import com.burhanrashid52.player.data.local.Movies
-import ja.burhanrashid52.base.loadFromUrl
+import com.kamleshgorasiya.player.R
+import com.kamleshgorasiya.player.data.local.Movies
+import ja.kamleshgorasiya.base.loadFromUrl
 import kotlinx.android.synthetic.main.row_home_feed.view.*
 
 /**

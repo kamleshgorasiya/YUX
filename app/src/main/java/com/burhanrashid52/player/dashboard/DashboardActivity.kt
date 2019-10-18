@@ -1,4 +1,4 @@
-package com.burhanrashid52.player.dashboard
+package com.kamleshgorasiya.player.dashboard
 
 import android.arch.lifecycle.Observer
 import android.content.pm.ActivityInfo
@@ -12,17 +12,17 @@ import android.support.transition.Transition
 import android.support.transition.TransitionManager
 import android.view.View
 import android.view.animation.AnticipateOvershootInterpolator
-import com.burhanrashid52.player.R
-import com.burhanrashid52.player.player.VideoDetailsFragment
-import com.burhanrashid52.player.player.VideoPlayerFragment
-import com.burhanrashid52.player.useractivity.UserActivityFragment
-import com.burhanrashid52.player.animations.GestureEvents
-import com.burhanrashid52.player.animations.VideoTouchHandler
-import com.burhanrashid52.player.home.HomeFragment
-import com.burhanrashid52.player.library.LibraryFragment
-import com.burhanrashid52.player.subscriptions.SubscriptionFragment
-import com.burhanrashid52.player.trending.TrendingFragment
-import ja.burhanrashid52.base.*
+import com.kamleshgorasiya.player.R
+import com.kamleshgorasiya.player.player.VideoDetailsFragment
+import com.kamleshgorasiya.player.player.VideoPlayerFragment
+import com.kamleshgorasiya.player.useractivity.UserActivityFragment
+import com.kamleshgorasiya.player.animations.GestureEvents
+import com.kamleshgorasiya.player.animations.VideoTouchHandler
+import com.kamleshgorasiya.player.home.HomeFragment
+import com.kamleshgorasiya.player.library.LibraryFragment
+import com.kamleshgorasiya.player.subscriptions.SubscriptionFragment
+import com.kamleshgorasiya.player.trending.TrendingFragment
+import ja.kamleshgorasiya.base.*
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.fragment_player.*
 import kotlinx.android.synthetic.main.layout_toolbar.*

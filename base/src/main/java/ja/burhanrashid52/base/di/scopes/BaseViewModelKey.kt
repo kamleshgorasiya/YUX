@@ -1,4 +1,4 @@
-package ja.burhanrashid52.base.di.scopes
+package ja.kamleshgorasiya.base.di.scopes
 
 import android.arch.lifecycle.ViewModel
 import java.lang.annotation.Retention

@@ -1,4 +1,4 @@
-package ja.burhanrashid52.base.widgets;
+package ja.kamleshgorasiya.base.widgets;
 
 import android.content.Context;
 import android.graphics.Canvas;
@@ -7,7 +7,7 @@ import android.support.v4.content.ContextCompat;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
 
-import ja.burhanrashid52.base.R;
+import ja.kamleshgorasiya.base.R;
 
 public class SimpleDividerItemDecoration extends RecyclerView.ItemDecoration {
     private Drawable mDivider;

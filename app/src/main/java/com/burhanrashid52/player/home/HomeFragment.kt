@@ -1,4 +1,4 @@
-package com.burhanrashid52.player.home
+package com.kamleshgorasiya.player.home
 
 import android.annotation.SuppressLint
 import android.arch.lifecycle.Observer
@@ -6,12 +6,12 @@ import android.os.Bundle
 import android.support.annotation.VisibleForTesting
 import android.support.test.espresso.idling.CountingIdlingResource
 import android.support.v7.widget.LinearLayoutManager
-import com.burhanrashid52.player.R
-import com.burhanrashid52.player.dashboard.DashboardViewModel
-import ja.burhanrashid52.base.BaseFragment
-import ja.burhanrashid52.base.getActivityViewModel
-import ja.burhanrashid52.base.repo.Status.*
-import ja.burhanrashid52.base.widgets.SimpleDividerItemDecoration
+import com.kamleshgorasiya.player.R
+import com.kamleshgorasiya.player.dashboard.DashboardViewModel
+import ja.kamleshgorasiya.base.BaseFragment
+import ja.kamleshgorasiya.base.getActivityViewModel
+import ja.kamleshgorasiya.base.repo.Status.*
+import ja.kamleshgorasiya.base.widgets.SimpleDividerItemDecoration
 import kotlinx.android.synthetic.main.fragment_home.*
 import timber.log.Timber
 

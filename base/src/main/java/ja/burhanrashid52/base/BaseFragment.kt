@@ -1,4 +1,4 @@
-package ja.burhanrashid52.base
+package ja.kamleshgorasiya.base
 
 import android.os.Bundle
 import android.support.v4.app.Fragment
@@ -7,7 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 
 /**
- * Created by Burhanuddin on 2/21/2018.
+ * Created by Kamlesh Gorasiya on 2/21/2018.
  */
 abstract class BaseFragment : Fragment() {
 

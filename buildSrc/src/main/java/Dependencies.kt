@@ -1,8 +1,8 @@
 /**
- * Created by Burhanuddin on 2/24/2018.
+ * Created by Kamlesh Gorasiya on 2/24/2018.
  */
 object Versions {
-    var application_id = "com.burhanrashid52.player"
+    var application_id = "com.kamleshgorasiya.player"
     var version_code = 1
     var version_name = "1.0"
     var compile_sdk_version = 27

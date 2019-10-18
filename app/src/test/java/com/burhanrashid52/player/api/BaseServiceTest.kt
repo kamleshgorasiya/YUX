@@ -1,4 +1,4 @@
-package com.burhanrashid52.player.api
+package com.kamleshgorasiya.player.api
 
 import android.arch.core.executor.testing.InstantTaskExecutorRule
 import okhttp3.mockwebserver.MockResponse

@@ -1,13 +1,13 @@
-package com.burhanrashid52.player.di
+package com.kamleshgorasiya.player.di
 
-import com.burhanrashid52.player.data.remote.WebService
-import com.burhanrashid52.player.network.TestWebService
+import com.kamleshgorasiya.player.data.remote.WebService
+import com.kamleshgorasiya.player.network.TestWebService
 import com.google.gson.Gson
 import dagger.Module
 import dagger.Provides
-import ja.burhanrashid52.base.di.modules.BaseNetworkModule
-import ja.burhanrashid52.base.di.scopes.BaseScope
-import ja.burhanrashid52.base.liveUtils.LiveDataCallAdapterFactory
+import ja.kamleshgorasiya.base.di.modules.BaseNetworkModule
+import ja.kamleshgorasiya.base.di.scopes.BaseScope
+import ja.kamleshgorasiya.base.liveUtils.LiveDataCallAdapterFactory
 import okhttp3.OkHttpClient
 import retrofit2.Retrofit
 import retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory
@@ -15,7 +15,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 
 /**
  *
- * @author <a href="https://github.com/burhanrashid52">Kamlesh Gorasiya</a>
+ * @author <a href="https://github.com/kamleshgorasiya">Kamlesh Gorasiya</a>
  * @since 6/22/2018
  */
 

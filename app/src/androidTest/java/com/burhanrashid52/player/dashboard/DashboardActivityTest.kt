@@ -1,4 +1,4 @@
-package com.burhanrashid52.player.dashboard
+package com.kamleshgorasiya.player.dashboard
 
 import android.support.test.espresso.Espresso.onView
 import android.support.test.espresso.IdlingRegistry
@@ -7,15 +7,15 @@ import android.support.test.espresso.contrib.RecyclerViewActions
 import android.support.test.espresso.matcher.ViewMatchers.withId
 import android.support.test.rule.ActivityTestRule
 import android.support.test.runner.AndroidJUnit4
-import com.burhanrashid52.player.R
-import com.burhanrashid52.player.home.HomeAdapter
-import com.burhanrashid52.player.home.HomeFragment
-import com.burhanrashid52.player.library.LibraryFragment
-import com.burhanrashid52.player.player.VideoDetailsFragment
-import com.burhanrashid52.player.player.VideoPlayerFragment
-import com.burhanrashid52.player.subscriptions.SubscriptionFragment
-import com.burhanrashid52.player.trending.TrendingFragment
-import com.burhanrashid52.player.useractivity.UserActivityFragment
+import com.kamleshgorasiya.player.R
+import com.kamleshgorasiya.player.home.HomeAdapter
+import com.kamleshgorasiya.player.home.HomeFragment
+import com.kamleshgorasiya.player.library.LibraryFragment
+import com.kamleshgorasiya.player.player.VideoDetailsFragment
+import com.kamleshgorasiya.player.player.VideoPlayerFragment
+import com.kamleshgorasiya.player.subscriptions.SubscriptionFragment
+import com.kamleshgorasiya.player.trending.TrendingFragment
+import com.kamleshgorasiya.player.useractivity.UserActivityFragment
 import org.junit.After
 import org.junit.Assert.assertNotNull
 import org.junit.Before

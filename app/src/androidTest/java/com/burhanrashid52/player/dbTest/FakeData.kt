@@ -1,6 +1,6 @@
-package com.burhanrashid52.player.dbTest
+package com.kamleshgorasiya.player.dbTest
 
-import com.burhanrashid52.player.data.local.Movies
+import com.kamleshgorasiya.player.data.local.Movies
 
 object FakeData {
     fun createMovies(): List<Movies> {

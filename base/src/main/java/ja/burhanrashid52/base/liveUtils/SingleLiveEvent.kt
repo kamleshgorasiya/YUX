@@ -1,4 +1,4 @@
-package ja.burhanrashid52.base.liveUtils
+package ja.kamleshgorasiya.base.liveUtils
 
 import android.arch.lifecycle.LifecycleOwner
 import android.arch.lifecycle.MutableLiveData

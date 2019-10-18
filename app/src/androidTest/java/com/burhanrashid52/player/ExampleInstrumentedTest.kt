@@ -1,4 +1,4 @@
-package com.burhanrashid52.player
+package com.kamleshgorasiya.player
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
@@ -20,6 +20,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
-        assertEquals("com.burhanrashid52.player", appContext.packageName)
+        assertEquals("com.kamleshgorasiya.player", appContext.packageName)
     }
 }

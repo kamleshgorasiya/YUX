@@ -1,10 +1,10 @@
-package com.burhanrashid52.player.di.components
+package com.kamleshgorasiya.player.di.components
 
-import com.burhanrashid52.player.di.modules.AppComponent
-import com.burhanrashid52.player.di.scopes.AppScope
-import com.burhanrashid52.player.dashboard.DashboardViewModel
+import com.kamleshgorasiya.player.di.modules.AppComponent
+import com.kamleshgorasiya.player.di.scopes.AppScope
+import com.kamleshgorasiya.player.dashboard.DashboardViewModel
 import dagger.Component
-import ja.burhanrashid52.base.di.components.BaseNetworkComponent
+import ja.kamleshgorasiya.base.di.components.BaseNetworkComponent
 
 /**
  * Created by Kamlesh Gorasiya on 3/1/2018.

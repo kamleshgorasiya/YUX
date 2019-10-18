@@ -14,9 +14,9 @@
  * limitations under the License.
  */
 
-package ja.burhanrashid52.base.repo
+package ja.kamleshgorasiya.base.repo
 
-import ja.burhanrashid52.base.repo.Status.*
+import ja.kamleshgorasiya.base.repo.Status.*
 
 /**
  * A generic class that holds a value with its loading status.
