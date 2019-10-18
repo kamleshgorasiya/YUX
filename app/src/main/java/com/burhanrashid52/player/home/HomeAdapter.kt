@@ -11,7 +11,7 @@ import ja.burhanrashid52.base.loadFromUrl
 import kotlinx.android.synthetic.main.row_home_feed.view.*
 
 /**
- * Created by Burhanuddin Rashid on 3/7/2018.
+ * Created by Kamlesh Gorasiya on 3/7/2018.
  */
 class HomeAdapter(private val listener: ((Movies) -> Unit)? = null) : RecyclerView.Adapter<HomeAdapter.HomeViewHolder>() {
 

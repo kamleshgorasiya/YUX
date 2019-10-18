@@ -12,7 +12,7 @@ import ja.burhanrashid52.base.repo.Resource
 import javax.inject.Inject
 
 /**
- * Created by Burhanuddin Rashid on 3/6/2018.
+ * Created by Kamlesh Gorasiya on 3/6/2018.
  */
 class DashboardViewModel(application: Application) : AndroidViewModel(application) {
 

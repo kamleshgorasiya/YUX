@@ -7,7 +7,7 @@ import ja.burhanrashid52.base.di.modules.BaseAppModule
 import timber.log.Timber
 
 /**
- * Created by Burhanuddin Rashid on 3/1/2018.
+ * Created by Kamlesh Gorasiya on 3/1/2018.
  */
 open class BaseApplication : Application() {
 

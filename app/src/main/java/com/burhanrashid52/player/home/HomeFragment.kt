@@ -16,7 +16,7 @@ import kotlinx.android.synthetic.main.fragment_home.*
 import timber.log.Timber
 
 /**
- * Created by Burhanuddin Rashid on 3/6/2018.
+ * Created by Kamlesh Gorasiya on 3/6/2018.
  */
 class HomeFragment @SuppressLint("ValidFragment")
 private constructor() : BaseFragment() {

@@ -6,7 +6,7 @@ import ja.burhanrashid52.base.api.ApiResponse
 import retrofit2.http.GET
 
 /**
- * Created by Burhanuddin Rashid on 3/6/2018.
+ * Created by Kamlesh Gorasiya on 3/6/2018.
  */
 interface WebService {
     @GET("movieslist")

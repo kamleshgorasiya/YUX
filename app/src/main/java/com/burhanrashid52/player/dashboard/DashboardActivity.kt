@@ -31,7 +31,7 @@ import timber.log.Timber
 
 
 /**
- * Created by Burhanuddin Rashid on 2/25/2018.
+ * Created by Kamlesh Gorasiya on 2/25/2018.
  */
 class DashboardActivity : BaseActivity(), GestureEvents {
 

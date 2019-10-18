@@ -25,7 +25,7 @@ import ja.burhanrashid52.base.*
 
 
 /**
- * Created by Burhanuddin Rashid on 2/21/2018.
+ * Created by Kamlesh Gorasiya on 2/21/2018.
  */
 class VideoPlayerFragment @SuppressLint("ValidFragment")
 private constructor() : BaseFragment() {

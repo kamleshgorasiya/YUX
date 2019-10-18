@@ -5,7 +5,7 @@ import ja.burhanrashid52.base.di.components.DaggerBaseNetworkComponent
 
 /**
  *
- * @author <a href="https://github.com/burhanrashid52">Burhanuddin Rashid</a>
+ * @author <a href="https://github.com/burhanrashid52">Kamlesh Gorasiya</a>
  * @since 6/22/2018
  */
 

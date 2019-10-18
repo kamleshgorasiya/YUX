@@ -10,7 +10,7 @@ import timber.log.Timber
 
 
 /**
- * Created by Burhanuddin Rashid on 2/25/2018.
+ * Created by Kamlesh Gorasiya on 2/25/2018.
  *
  * This class is fully dependent on Dashboard activity layout it will perform youtube like
  * animation on Framelayout onTouchListener.The logic for animation resides here to make

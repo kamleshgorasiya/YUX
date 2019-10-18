@@ -7,7 +7,7 @@ import dagger.Component
 import ja.burhanrashid52.base.di.components.BaseNetworkComponent
 
 /**
- * Created by Burhanuddin Rashid on 3/1/2018.
+ * Created by Kamlesh Gorasiya on 3/1/2018.
  */
 
 @AppScope
